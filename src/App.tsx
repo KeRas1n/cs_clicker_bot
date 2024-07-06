@@ -1,7 +1,6 @@
 import { useEffect, useState } from 'react'
 import './App.css'
 import defaultKtKnife from './assets/defaultKtKnife.png'
-import dust from './assets/Bdust.png'
 
 const tg = window.Telegram.WebApp;
 
