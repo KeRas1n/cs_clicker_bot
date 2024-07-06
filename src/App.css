@@ -1,0 +1,32 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  transition: .3s all;
+}
+
+.knife-btn:active{
+  scale: 0.9;
+}
+
+body{
+
+  color:white;
+
+  background-image: url(./assets/Bdust.jpeg);
+}
+
+.main{
+  background-color: rgba(0, 0, 0, 0.834);
+}
+
+.btn{
+  padding: 5px;
+  border: 1px solid;
+  border-radius: 15%;
+}
+
+.btn:hover{
+  color:black;
+  background-color: white;
+}
